@@ -2,7 +2,7 @@ namespace Practice_02;
 
 public class Task03
 {
-    public static double countAvgChange(int[] arr)
+    public static double countAvgCHANGED(int[] arr)
     {
         if (arr == null)
         {
