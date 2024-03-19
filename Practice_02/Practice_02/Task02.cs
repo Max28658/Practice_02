@@ -1,6 +1,6 @@
 namespace Practice_02;
 
-public class Task03
+public class Task02
 {
     public static double countAvg(int[] arr)
     {
